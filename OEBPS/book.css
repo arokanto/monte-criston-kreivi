@@ -84,6 +84,18 @@ h3 {
     margin-top: 0;
     text-indent: 0
     }
+.title-page-title {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-top: 3em;
+    text-align: center;
+    text-indent: 0
+    }
+.centered-text {
+    margin-top: 1em;
+    text-align: center;
+    text-indent: 0
+    }
 .end-marker {
     font-weight: bold;
     margin-top: 3em;
