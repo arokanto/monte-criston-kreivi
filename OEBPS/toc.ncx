@@ -14,15 +14,711 @@
   <navMap>
     <navPoint id="np-1" playOrder="1">
       <navLabel>
-        <text>SISÄLLYS:</text>
+        <text>1. Marseille — Tulo</text>
       </navLabel>
-      <content src="7748726201001187284_45448-0-0.txt.xhtml#id00006"/>
+      <content src="7748726201001187284_45448-0-0.txt.xhtml#id00008"/>
     </navPoint>
     <navPoint id="np-2" playOrder="2">
       <navLabel>
-        <text>THE FULL PROJECT GUTENBERG™ LICENSE</text>
+        <text>2. Isä ja poika</text>
       </navLabel>
-      <content src="7748726201001187284_45448-0-15.txt.xhtml#pg-footer-heading"/>
+      <content src="7748726201001187284_45448-0-0.txt.xhtml#id00154"/>
+    </navPoint>
+    <navPoint id="np-3" playOrder="3">
+      <navLabel>
+        <text>3. Katalonialaiset</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-0.txt.xhtml#id00272"/>
+    </navPoint>
+    <navPoint id="np-4" playOrder="4">
+      <navLabel>
+        <text>4. Salaliitto</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-0.txt.xhtml#id00399"/>
+    </navPoint>
+    <navPoint id="np-5" playOrder="5">
+      <navLabel>
+        <text>5. Kihlajaiskemut</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-0.txt.xhtml#id00501"/>
+    </navPoint>
+    <navPoint id="np-6" playOrder="6">
+      <navLabel>
+        <text>6. Prokuraattorin sijainen</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-0.txt.xhtml#id00658"/>
+    </navPoint>
+    <navPoint id="np-7" playOrder="7">
+      <navLabel>
+        <text>7. Kuulustelu</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-0.txt.xhtml#id00755"/>
+    </navPoint>
+    <navPoint id="np-8" playOrder="8">
+      <navLabel>
+        <text>8. Ifin linna</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-0.txt.xhtml#id00891"/>
+    </navPoint>
+    <navPoint id="np-9" playOrder="9">
+      <navLabel>
+        <text>9. Kihlajaispäivän ilta</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-0.txt.xhtml#id01036"/>
+    </navPoint>
+    <navPoint id="np-10" playOrder="10">
+      <navLabel>
+        <text>10. Pieni työhuone Tuileries-palatsissa</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-0.txt.xhtml#id01110"/>
+    </navPoint>
+    <navPoint id="np-11" playOrder="11">
+      <navLabel>
+        <text>11. Korsikalainen ihmissusi</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-1.txt.xhtml#id01221"/>
+    </navPoint>
+    <navPoint id="np-12" playOrder="12">
+      <navLabel>
+        <text>12. Isä ja poika</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-1.txt.xhtml#id01337"/>
+    </navPoint>
+    <navPoint id="np-13" playOrder="13">
+      <navLabel>
+        <text>13. Satapäiväinen keisarikunta</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-1.txt.xhtml#id01428"/>
+    </navPoint>
+    <navPoint id="np-14" playOrder="14">
+      <navLabel>
+        <text>14. Raivoisa vanki ja hullu vanki</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-1.txt.xhtml#id01522"/>
+    </navPoint>
+    <navPoint id="np-15" playOrder="15">
+      <navLabel>
+        <text>15. Numero 34 ja numero 27</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-1.txt.xhtml#id01674"/>
+    </navPoint>
+    <navPoint id="np-16" playOrder="16">
+      <navLabel>
+        <text>16. Italialainen tiedemies</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-1.txt.xhtml#id01857"/>
+    </navPoint>
+    <navPoint id="np-17" playOrder="17">
+      <navLabel>
+        <text>17. Apotin huone</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-1.txt.xhtml#id01976"/>
+    </navPoint>
+    <navPoint id="np-18" playOrder="18">
+      <navLabel>
+        <text>18. Aarre</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-1.txt.xhtml#id02269"/>
+    </navPoint>
+    <navPoint id="np-19" playOrder="19">
+      <navLabel>
+        <text>19. Kolmas taudinkohtaus</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-2.txt.xhtml#id02375"/>
+    </navPoint>
+    <navPoint id="np-20" playOrder="20">
+      <navLabel>
+        <text>20. Ifin linnan hautausmaa</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-2.txt.xhtml#id02483"/>
+    </navPoint>
+    <navPoint id="np-21" playOrder="21">
+      <navLabel>
+        <text>21. Tiboulenin saari</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-2.txt.xhtml#id02541"/>
+    </navPoint>
+    <navPoint id="np-22" playOrder="22">
+      <navLabel>
+        <text>22. Salakuljettajat</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-2.txt.xhtml#id02677"/>
+    </navPoint>
+    <navPoint id="np-23" playOrder="23">
+      <navLabel>
+        <text>23. Monte-Criston saari</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-2.txt.xhtml#id02729"/>
+    </navPoint>
+    <navPoint id="np-24" playOrder="24">
+      <navLabel>
+        <text>24. Lumouksen vallassa</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-2.txt.xhtml#id02802"/>
+    </navPoint>
+    <navPoint id="np-25" playOrder="25">
+      <navLabel>
+        <text>25. Tuntematon</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-2.txt.xhtml#id02894"/>
+    </navPoint>
+    <navPoint id="np-26" playOrder="26">
+      <navLabel>
+        <text>26. Gardin sillan majatalo</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-2.txt.xhtml#id02942"/>
+    </navPoint>
+    <navPoint id="np-27" playOrder="27">
+      <navLabel>
+        <text>27. Kertomus</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-2.txt.xhtml#id03107"/>
+    </navPoint>
+    <navPoint id="np-28" playOrder="28">
+      <navLabel>
+        <text>28. Vankilan luettelot</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-3.txt.xhtml#id03269"/>
+    </navPoint>
+    <navPoint id="np-29" playOrder="29">
+      <navLabel>
+        <text>29. Morrelin kauppahuone</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-3.txt.xhtml#id03369"/>
+    </navPoint>
+    <navPoint id="np-30" playOrder="30">
+      <navLabel>
+        <text>30. Syyskuun viides päivä</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-3.txt.xhtml#id03532"/>
+    </navPoint>
+    <navPoint id="np-31" playOrder="31">
+      <navLabel>
+        <text>31. Italia — Merenkulkija Sindbad</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-3.txt.xhtml#id03752"/>
+    </navPoint>
+    <navPoint id="np-32" playOrder="32">
+      <navLabel>
+        <text>32. Herääminen</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-3.txt.xhtml#id04029"/>
+    </navPoint>
+    <navPoint id="np-33" playOrder="33">
+      <navLabel>
+        <text>33. Roomalaisia rosvoja</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-3.txt.xhtml#id04099"/>
+    </navPoint>
+    <navPoint id="np-34" playOrder="34">
+      <navLabel>
+        <text>34. Odottamaton kohtaaminen</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-4.txt.xhtml#id04488"/>
+    </navPoint>
+    <navPoint id="np-35" playOrder="35">
+      <navLabel>
+        <text>35. La Mazzolata</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-4.txt.xhtml#id04785"/>
+    </navPoint>
+    <navPoint id="np-36" playOrder="36">
+      <navLabel>
+        <text>36. Rooman karnevaali</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-4.txt.xhtml#id04937"/>
+    </navPoint>
+    <navPoint id="np-37" playOrder="37">
+      <navLabel>
+        <text>37. San Sebastianon katakombit</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-4.txt.xhtml#id05150"/>
+    </navPoint>
+    <navPoint id="np-38" playOrder="38">
+      <navLabel>
+        <text>38. Sovittu tapaaminen</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-4.txt.xhtml#id05432"/>
+    </navPoint>
+    <navPoint id="np-39" playOrder="39">
+      <navLabel>
+        <text>39. Pöytätoverit</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-4.txt.xhtml#id05517"/>
+    </navPoint>
+    <navPoint id="np-40" playOrder="40">
+      <navLabel>
+        <text>40. Aamiainen</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-5.txt.xhtml#id05774"/>
+    </navPoint>
+    <navPoint id="np-41" playOrder="41">
+      <navLabel>
+        <text>41. Esittely</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-5.txt.xhtml#id05901"/>
+    </navPoint>
+    <navPoint id="np-42" playOrder="42">
+      <navLabel>
+        <text>42. Bertuccio</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-5.txt.xhtml#id06022"/>
+    </navPoint>
+    <navPoint id="np-43" playOrder="43">
+      <navLabel>
+        <text>43. Talo Auteuilissa</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-5.txt.xhtml#id06097"/>
+    </navPoint>
+    <navPoint id="np-44" playOrder="44">
+      <navLabel>
+        <text>44. Vendetta</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-5.txt.xhtml#id06199"/>
+    </navPoint>
+    <navPoint id="np-45" playOrder="45">
+      <navLabel>
+        <text>45. Verisade</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-5.txt.xhtml#id06425"/>
+    </navPoint>
+    <navPoint id="np-46" playOrder="46">
+      <navLabel>
+        <text>46. Rajaton luotto</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-5.txt.xhtml#id06537"/>
+    </navPoint>
+    <navPoint id="np-47" playOrder="47">
+      <navLabel>
+        <text>47. Harmaat hevoset</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-6.txt.xhtml#id06708"/>
+    </navPoint>
+    <navPoint id="np-48" playOrder="48">
+      <navLabel>
+        <text>48. Ideologiaa</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-6.txt.xhtml#id06842"/>
+    </navPoint>
+    <navPoint id="np-49" playOrder="49">
+      <navLabel>
+        <text>49. Haydée</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-6.txt.xhtml#id06925"/>
+    </navPoint>
+    <navPoint id="np-50" playOrder="50">
+      <navLabel>
+        <text>50. Morrelin perhe</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-6.txt.xhtml#id06981"/>
+    </navPoint>
+    <navPoint id="np-51" playOrder="51">
+      <navLabel>
+        <text>51. Pyramus ja Tisbe</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-6.txt.xhtml#id07090"/>
+    </navPoint>
+    <navPoint id="np-52" playOrder="52">
+      <navLabel>
+        <text>52. Myrkkyoppi</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-6.txt.xhtml#id07158"/>
+    </navPoint>
+    <navPoint id="np-53" playOrder="53">
+      <navLabel>
+        <text>53. Robert Paholainen</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-6.txt.xhtml#id07308"/>
+    </navPoint>
+    <navPoint id="np-54" playOrder="54">
+      <navLabel>
+        <text>54. Kurssinoteerauksia</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-6.txt.xhtml#id07551"/>
+    </navPoint>
+    <navPoint id="np-55" playOrder="55">
+      <navLabel>
+        <text>55. Majuri Cavalcanti</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-7.txt.xhtml#id07699"/>
+    </navPoint>
+    <navPoint id="np-56" playOrder="56">
+      <navLabel>
+        <text>56. Andrea Cavalcanti</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-7.txt.xhtml#id07926"/>
+    </navPoint>
+    <navPoint id="np-57" playOrder="57">
+      <navLabel>
+        <text>57. Aitaus</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-7.txt.xhtml#id08127"/>
+    </navPoint>
+    <navPoint id="np-58" playOrder="58">
+      <navLabel>
+        <text>58. Herra Noirtier de Villefort</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-7.txt.xhtml#id08238"/>
+    </navPoint>
+    <navPoint id="np-59" playOrder="59">
+      <navLabel>
+        <text>59. Testamentti</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-7.txt.xhtml#id08366"/>
+    </navPoint>
+    <navPoint id="np-60" playOrder="60">
+      <navLabel>
+        <text>60. Lennätin</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-7.txt.xhtml#id08521"/>
+    </navPoint>
+    <navPoint id="np-61" playOrder="61">
+      <navLabel>
+        <text>61. Kuinka puutarhuri pääsee persikoita nakertelevista hiiristä</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-7.txt.xhtml#id08644"/>
+    </navPoint>
+    <navPoint id="np-62" playOrder="62">
+      <navLabel>
+        <text>62. Kummitukset</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-7.txt.xhtml#id08822"/>
+    </navPoint>
+    <navPoint id="np-63" playOrder="63">
+      <navLabel>
+        <text>63. Päivälliset</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-8.txt.xhtml#id08956"/>
+    </navPoint>
+    <navPoint id="np-64" playOrder="64">
+      <navLabel>
+        <text>64. Kerjäläinen</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-8.txt.xhtml#id09101"/>
+    </navPoint>
+    <navPoint id="np-65" playOrder="65">
+      <navLabel>
+        <text>65. Perheriita</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-8.txt.xhtml#id09198"/>
+    </navPoint>
+    <navPoint id="np-66" playOrder="66">
+      <navLabel>
+        <text>66. Avioliittoaikeita</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-8.txt.xhtml#id09308"/>
+    </navPoint>
+    <navPoint id="np-67" playOrder="67">
+      <navLabel>
+        <text>67. Kuninkaallisen prokuraattorin työhuone</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-8.txt.xhtml#id09458"/>
+    </navPoint>
+    <navPoint id="np-68" playOrder="68">
+      <navLabel>
+        <text>68. Kesätanssiaiset</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-8.txt.xhtml#id09577"/>
+    </navPoint>
+    <navPoint id="np-69" playOrder="69">
+      <navLabel>
+        <text>69. Tutkimuksia</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-8.txt.xhtml#id09722"/>
+    </navPoint>
+    <navPoint id="np-70" playOrder="70">
+      <navLabel>
+        <text>70. Tanssiaiset</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-8.txt.xhtml#id09895"/>
+    </navPoint>
+    <navPoint id="np-71" playOrder="71">
+      <navLabel>
+        <text>71. Leipää ja suolaa</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-8.txt.xhtml#id10054"/>
+    </navPoint>
+    <navPoint id="np-72" playOrder="72">
+      <navLabel>
+        <text>72. Markiisitar Saint-Méran</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-8.txt.xhtml#id10136"/>
+    </navPoint>
+    <navPoint id="np-73" playOrder="73">
+      <navLabel>
+        <text>73. Lupaus</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-9.txt.xhtml#id10305"/>
+    </navPoint>
+    <navPoint id="np-74" playOrder="74">
+      <navLabel>
+        <text>74. Villefort'in perhehauta</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-9.txt.xhtml#id10686"/>
+    </navPoint>
+    <navPoint id="np-75" playOrder="75">
+      <navLabel>
+        <text>75. Pöytäkirja</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-9.txt.xhtml#id10792"/>
+    </navPoint>
+    <navPoint id="np-76" playOrder="76">
+      <navLabel>
+        <text>76. Andrea Cavalcantin edistysaskelet</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-9.txt.xhtml#id10993"/>
+    </navPoint>
+    <navPoint id="np-77" playOrder="77">
+      <navLabel>
+        <text>77. Haydée</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-9.txt.xhtml#id11172"/>
+    </navPoint>
+    <navPoint id="np-78" playOrder="78">
+      <navLabel>
+        <text>78. Janinasta kirjoitetaan…</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-10.txt.xhtml#id11509"/>
+    </navPoint>
+    <navPoint id="np-79" playOrder="79">
+      <navLabel>
+        <text>79. Mehuvesi</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-10.txt.xhtml#id11846"/>
+    </navPoint>
+    <navPoint id="np-80" playOrder="80">
+      <navLabel>
+        <text>80. Syytös</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-10.txt.xhtml#id12083"/>
+    </navPoint>
+    <navPoint id="np-81" playOrder="81">
+      <navLabel>
+        <text>81. Toimensa jättänyt leipuri</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-10.txt.xhtml#id12153"/>
+    </navPoint>
+    <navPoint id="np-82" playOrder="82">
+      <navLabel>
+        <text>82. Murtovarkaus</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-10.txt.xhtml#id12505"/>
+    </navPoint>
+    <navPoint id="np-83" playOrder="83">
+      <navLabel>
+        <text>83. Jumalan käsi</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-10.txt.xhtml#id12734"/>
+    </navPoint>
+    <navPoint id="np-84" playOrder="84">
+      <navLabel>
+        <text>84. Beauchamp</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-10.txt.xhtml#id12834"/>
+    </navPoint>
+    <navPoint id="np-85" playOrder="85">
+      <navLabel>
+        <text>85. Matka</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-11.txt.xhtml#id12926"/>
+    </navPoint>
+    <navPoint id="np-86" playOrder="86">
+      <navLabel>
+        <text>86. Tuomio</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-11.txt.xhtml#id13093"/>
+    </navPoint>
+    <navPoint id="np-87" playOrder="87">
+      <navLabel>
+        <text>87. Taisteluhaaste</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-11.txt.xhtml#id13253"/>
+    </navPoint>
+    <navPoint id="np-88" playOrder="88">
+      <navLabel>
+        <text>88. Solvaus</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-11.txt.xhtml#id13328"/>
+    </navPoint>
+    <navPoint id="np-89" playOrder="89">
+      <navLabel>
+        <text>89. Yö</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-11.txt.xhtml#id13482"/>
+    </navPoint>
+    <navPoint id="np-90" playOrder="90">
+      <navLabel>
+        <text>90. Taistelupaikalla</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-11.txt.xhtml#id13570"/>
+    </navPoint>
+    <navPoint id="np-91" playOrder="91">
+      <navLabel>
+        <text>91. Äiti ja poika</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-11.txt.xhtml#id13768"/>
+    </navPoint>
+    <navPoint id="np-92" playOrder="92">
+      <navLabel>
+        <text>92. Itsemurha</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-11.txt.xhtml#id13840"/>
+    </navPoint>
+    <navPoint id="np-93" playOrder="93">
+      <navLabel>
+        <text>93. Valentine</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-11.txt.xhtml#id13971"/>
+    </navPoint>
+    <navPoint id="np-94" playOrder="94">
+      <navLabel>
+        <text>94. Tunnustus</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-12.txt.xhtml#id14078"/>
+    </navPoint>
+    <navPoint id="np-95" playOrder="95">
+      <navLabel>
+        <text>95. Isä ja tytär</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-12.txt.xhtml#id14279"/>
+    </navPoint>
+    <navPoint id="np-96" playOrder="96">
+      <navLabel>
+        <text>96. Avioliittosopimus</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-12.txt.xhtml#id14358"/>
+    </navPoint>
+    <navPoint id="np-97" playOrder="97">
+      <navLabel>
+        <text>97. Matkalla Belgiaan</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-12.txt.xhtml#id14519"/>
+    </navPoint>
+    <navPoint id="np-98" playOrder="98">
+      <navLabel>
+        <text>98. "Kellon ja Pullon" majatalo</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-12.txt.xhtml#id14620"/>
+    </navPoint>
+    <navPoint id="np-99" playOrder="99">
+      <navLabel>
+        <text>99. Laki</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-12.txt.xhtml#id14787"/>
+    </navPoint>
+    <navPoint id="np-100" playOrder="100">
+      <navLabel>
+        <text>100. Haamu</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-12.txt.xhtml#id14914"/>
+    </navPoint>
+    <navPoint id="np-101" playOrder="101">
+      <navLabel>
+        <text>101. Myrkyttäjä</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-12.txt.xhtml#id14995"/>
+    </navPoint>
+    <navPoint id="np-102" playOrder="102">
+      <navLabel>
+        <text>102. Valentine</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-12.txt.xhtml#id15085"/>
+    </navPoint>
+    <navPoint id="np-103" playOrder="103">
+      <navLabel>
+        <text>103. Maximilien</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-12.txt.xhtml#id15169"/>
+    </navPoint>
+    <navPoint id="np-104" playOrder="104">
+      <navLabel>
+        <text>104. Danglars'in nimikirjoitus</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-13.txt.xhtml#id15296"/>
+    </navPoint>
+    <navPoint id="np-105" playOrder="105">
+      <navLabel>
+        <text>105. Père-Lachaisen hautausmaa</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-13.txt.xhtml#id15485"/>
+    </navPoint>
+    <navPoint id="np-106" playOrder="106">
+      <navLabel>
+        <text>106. Jako</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-13.txt.xhtml#id15657"/>
+    </navPoint>
+    <navPoint id="np-107" playOrder="107">
+      <navLabel>
+        <text>107. Leijonanluola</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-13.txt.xhtml#id15843"/>
+    </navPoint>
+    <navPoint id="np-108" playOrder="108">
+      <navLabel>
+        <text>108. Tuomari</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-13.txt.xhtml#id15951"/>
+    </navPoint>
+    <navPoint id="np-109" playOrder="109">
+      <navLabel>
+        <text>109. Tuomioistuin</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-13.txt.xhtml#id16078"/>
+    </navPoint>
+    <navPoint id="np-110" playOrder="110">
+      <navLabel>
+        <text>110. Syytöskirjelmä</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-13.txt.xhtml#id16168"/>
+    </navPoint>
+    <navPoint id="np-111" playOrder="111">
+      <navLabel>
+        <text>111. Sovitus</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-13.txt.xhtml#id16254"/>
+    </navPoint>
+    <navPoint id="np-112" playOrder="112">
+      <navLabel>
+        <text>112. Lähtö</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-13.txt.xhtml#id16378"/>
+    </navPoint>
+    <navPoint id="np-113" playOrder="113">
+      <navLabel>
+        <text>113. Menneisyys</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-14.txt.xhtml#id16520"/>
+    </navPoint>
+    <navPoint id="np-114" playOrder="114">
+      <navLabel>
+        <text>114. Peppino</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-14.txt.xhtml#id16702"/>
+    </navPoint>
+    <navPoint id="np-115" playOrder="115">
+      <navLabel>
+        <text>115. Luigi Vampan ruokalista</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-14.txt.xhtml#id16871"/>
+    </navPoint>
+    <navPoint id="np-116" playOrder="116">
+      <navLabel>
+        <text>116. Anteeksianto</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-14.txt.xhtml#id16992"/>
+    </navPoint>
+    <navPoint id="np-117" playOrder="117">
+      <navLabel>
+        <text>117. Lokakuun viides päivä</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-14.txt.xhtml#id17110"/>
+    </navPoint>
+    <navPoint id="np-118" playOrder="118">
+      <navLabel>
+        <text>Viiteselitykset</text>
+      </navLabel>
+      <content src="7748726201001187284_45448-0-14.txt.xhtml#id17313"/>
     </navPoint>
   </navMap>
 </ncx>
