@@ -1,163 +1,116 @@
-/* ************************************************************************
- * classless css copied from https://www.pgdp.net/wiki/CSS_Cookbook/Styles
- * ********************************************************************** */
-/* ************************************************************************
- * set the body margins to allow whitespace along sides of window
- * ********************************************************************** */
 body {
     width: 85%;
-    /* == margin-left:7% */
-    }
+}
 @media screen {
     body {
         margin-left: 8%;
-        /* == margin-left:7% */
-        }
     }
+}
 .pagedjs_page_content > div {
     margin-left: 8%;
-    /* == margin-left:7% */
-    }
-/* ************************************************************************
- * set the indention, spacing, and leading for body paragraphs.
- * ********************************************************************** */
+}
 p {
-    /* all paragraphs unless overridden */
     margin-top: 1em;
-    /* inter-paragraph space */
     margin-bottom: 0;
-    /* use only top-margin for spacing */
     line-height: 1.4em;
-    /* interline spacing ("leading") */
-    }
-body > p {
-    /* paras at <body> level - not in <div> or <table>  */
-    text-align: justify;
-    /* or left?? */
+}
+body > p,
+section[role="doc-chapter"] > p {
     text-indent: 1em;
-    /* first-line indent */
-    }
-/* suppress indentation on paragraphs following heads  */
-h2 + p, h3 + p, h4 + p {
-    text-indent: 0
-    }
-/* tighter spacing for list item paragraphs */
-dd, li {
+}
+h1 + p,
+h2 + p,
+h3 + p,
+h4 + p {
+    text-indent: 0;
+}
+dd,
+li {
     margin-top: 0.25em;
     margin-bottom: 0;
     line-height: 1.2em;
-    /* a bit closer than p's */
-    }
-/* ************************************************************************
- * Head 2 is for chapter heads. 
- * ********************************************************************** */
+}
 h2 {
-    /* text-align:center;  left-aligned by default. */
     margin-top: 3em;
-    /* extra space above.. */
     margin-bottom: 2em;
-    /* ..and below */
     clear: both;
-    /* don't let sidebars overlap */
-    }
-/* ************************************************************************
- * Head 3 is for main-topic heads.
- * ********************************************************************** */
+}
 h3 {
-    /* text-align:center;  left-aligned by default. */
     margin-top: 2em;
-    /* extra space above but not below */
     font-weight: normal;
-    /* override default of bold */
     clear: both;
-    /* don't let sidebars overlap */
-    }
+}
 .chapter-title {
     font-size: 1.6em;
     font-weight: bold;
     line-height: 1.25;
     margin-top: 3em;
     margin-bottom: 1.5em;
-    text-indent: 0
-    }
+    text-indent: 0;
+}
 .chapter-title + p {
     margin-top: 0;
-    text-indent: 0
-    }
+    text-indent: 0;
+}
 .title-page-title {
     font-size: 1.2em;
     font-weight: bold;
     margin-top: 3em;
     text-align: center;
-    text-indent: 0
-    }
+    text-indent: 0;
+}
 .centered-text {
     margin-top: 1em;
     text-align: center;
-    text-indent: 0
-    }
+    text-indent: 0;
+}
 .end-marker {
     font-weight: bold;
     margin-top: 3em;
     text-align: center;
-    text-indent: 0
-    }
-/* ************************************************************************
- * Styling the default HR and some special-purpose ones.
- * Default rule centered and clear of floats; sized for thought-breaks
- * ********************************************************************** */
+    text-indent: 0;
+}
 hr {
     width: 45%;
-    /* adjust to ape original work */
     margin-top: 1em;
-    /* space above & below */
     margin-bottom: 1em;
     margin-left: auto;
-    /* these two ensure a.. */
     margin-right: auto;
-    /* ..centered rule */
     clear: both;
-    /* don't let sidebars & floats overlap rule */
-    }
-/* ************************************************************************
- * Images and captions
- * ********************************************************************** */
+}
 img {
-    /* the default inline image has */
     border: 1px solid black;
-    /* a thin black line border.. */
     padding: 6px;
-    /* ..spaced a bit out from the graphic */
-    }
+}
 .mt-0 {
-    margin-top: 0
-    }
+    margin-top: 0;
+}
 .mt-2em {
-    margin-top: 2em
-    }
+    margin-top: 2em;
+}
 .mt-3em {
-    margin-top: 3em
-    }
+    margin-top: 3em;
+}
 .mt-4em {
-    margin-top: 4em
-    }
+    margin-top: 4em;
+}
 .mt-6em {
-    margin-top: 6em
-    }
+    margin-top: 6em;
+}
 .mx-4pct {
     margin-left: 4%;
-    margin-right: 4%
-    }
+    margin-right: 4%;
+}
 .mx-5pct {
     margin-left: 5%;
-    margin-right: 5%
-    }
+    margin-right: 5%;
+}
 .pl-0 {
-    padding-left: 0
-    }
+    padding-left: 0;
+}
 .pl-7-5ex {
-    padding-left: 7.5ex
-    }
+    padding-left: 7.5ex;
+}
 .list-unstyled {
-    list-style-type: none
-    }
+    list-style-type: none;
+}
