@@ -23,7 +23,7 @@
     <dc:subject>Pirates -- Fiction</dc:subject>
     <dc:subject>Dantès, Edmond (Fictitious character) -- Fiction</dc:subject>
     <dc:date>2014-04-21</dc:date>
-    <meta property="dcterms:modified">2026-06-09T19:18:38Z</meta>
+    <meta property="dcterms:modified">2026-06-09T19:35:00Z</meta>
     <dc:source>https://www.gutenberg.org/files/45448/45448-0.txt</dc:source>
     <meta property="schema:accessMode">textual</meta>
     <meta property="schema:accessibilityFeature">readingOrder</meta>
@@ -34,9 +34,9 @@
   </metadata>
   <manifest>
     <item href="2039558115559954994_45448-cover.png" id="item1" media-type="image/png" properties="cover-image"/>
-    <item href="pgepub.css" id="item2" media-type="text/css"/>
-    <item href="0.css" id="item3" media-type="text/css"/>
-    <item href="1.css" id="item4" media-type="text/css"/>
+    <item href="gutenberg-epub.css" id="item2" media-type="text/css"/>
+    <item href="gutenberg.css" id="item3" media-type="text/css"/>
+    <item href="book.css" id="item4" media-type="text/css"/>
     <item href="wrap0000.xhtml" id="coverpage-wrapper" media-type="application/xhtml+xml" properties="svg"/>
     <item href="frontmatter.xhtml" id="frontmatter" media-type="application/xhtml+xml"/>
     <item href="chapter-001.xhtml" id="chapter-001" media-type="application/xhtml+xml"/>
