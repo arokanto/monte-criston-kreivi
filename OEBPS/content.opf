@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="id" xml:lang="fi">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier id="id">http://www.gutenberg.org/45448</dc:identifier>
+    <dc:creator id="author_0">Alexandre Dumas</dc:creator>
+    <meta property="file-as" refines="#author_0">Dumas, Alexandre</meta>
+    <meta property="role" refines="#author_0" scheme="marc:relators">aut</meta>
+    <dc:creator id="author_1">Auguste Maquet</dc:creator>
+    <meta property="file-as" refines="#author_1">Maquet, Auguste</meta>
+    <meta property="role" refines="#author_1" scheme="marc:relators">aut</meta>
+    <dc:contributor id="author_2">Jalmari Finne</dc:contributor>
+    <meta property="file-as" refines="#author_2">Finne, Jalmari</meta>
+    <meta property="role" refines="#author_2" scheme="marc:relators">trl</meta>
+    <dc:title>Monte-Criston kreivi</dc:title>
+    <dc:language>fi</dc:language>
+    <dc:subject>Historical fiction</dc:subject>
+    <dc:subject>Revenge -- Fiction</dc:subject>
+    <dc:subject>Adventure stories</dc:subject>
+    <dc:subject>Prisoners -- Fiction</dc:subject>
+    <dc:subject>France -- History -- 19th century -- Fiction</dc:subject>
+    <dc:subject>Pirates -- Fiction</dc:subject>
+    <dc:subject>Dantès, Edmond (Fictitious character) -- Fiction</dc:subject>
+    <dc:date>2014-04-21</dc:date>
+    <meta property="dcterms:modified">2026-05-18T15:14:51Z</meta>
+    <dc:source>https://www.gutenberg.org/files/45448/45448-0.txt</dc:source>
+    <meta property="schema:accessMode">textual</meta>
+    <meta property="schema:accessibilityFeature">readingOrder</meta>
+    <meta property="schema:accessibilityHazard">none</meta>
+    <meta property="schema:accessModeSufficient">textual,visual</meta>
+    <meta property="schema:accessibilitySummary">This publication may not have complete alternative text descriptions.</meta>
+    <meta name="cover" content="item1"/>
+  </metadata>
+  <manifest>
+    <!--Image: 1600 x 2400 size=69895 -->
+    <item href="2039558115559954994_45448-cover.png" id="item1" media-type="image/png" properties="cover-image"/>
+    <item href="pgepub.css" id="item2" media-type="text/css"/>
+    <item href="0.css" id="item3" media-type="text/css"/>
+    <item href="1.css" id="item4" media-type="text/css"/>
+    <!--Chunk: size=245843 Split on p-->
+    <item href="7748726201001187284_45448-0-0.txt.xhtml" id="pg-header" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=245987 Split on p-->
+    <item href="7748726201001187284_45448-0-1.txt.xhtml" id="id01127" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=245848 Split on p-->
+    <item href="7748726201001187284_45448-0-2.txt.xhtml" id="id02278" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=245787 Split on p-->
+    <item href="7748726201001187284_45448-0-3.txt.xhtml" id="id03246" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=245925 Split on p-->
+    <item href="7748726201001187284_45448-0-4.txt.xhtml" id="id04399" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=245896 Split on p-->
+    <item href="7748726201001187284_45448-0-5.txt.xhtml" id="id05550" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=245855 Split on p-->
+    <item href="7748726201001187284_45448-0-6.txt.xhtml" id="id06588" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=245852 Split on p-->
+    <item href="7748726201001187284_45448-0-7.txt.xhtml" id="id07602" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=245811 Split on p-->
+    <item href="7748726201001187284_45448-0-8.txt.xhtml" id="id08955" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=245799 Split on p-->
+    <item href="7748726201001187284_45448-0-9.txt.xhtml" id="id10190" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=245913 Split on p-->
+    <item href="7748726201001187284_45448-0-10.txt.xhtml" id="id11446" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=245832 Split on p-->
+    <item href="7748726201001187284_45448-0-11.txt.xhtml" id="id12902" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=245837 Split on p-->
+    <item href="7748726201001187284_45448-0-12.txt.xhtml" id="id14056" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=245939 Split on p-->
+    <item href="7748726201001187284_45448-0-13.txt.xhtml" id="id15246" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=174733 Split on section-->
+    <item href="7748726201001187284_45448-0-14.txt.xhtml" id="id16435" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=19572-->
+    <item href="7748726201001187284_45448-0-15.txt.xhtml" id="pg-footer" media-type="application/xhtml+xml"/>
+    <item href="toc.xhtml" id="ncx" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="toc.ncx" id="ncx2" media-type="application/x-dtbncx+xml"/>
+    <item href="wrap0000.xhtml" id="coverpage-wrapper" media-type="application/xhtml+xml" properties="svg"/>
+  </manifest>
+  <spine toc="ncx2">
+    <itemref idref="coverpage-wrapper"/>
+    <itemref idref="pg-header"/>
+    <itemref idref="id01127"/>
+    <itemref idref="id02278"/>
+    <itemref idref="id03246"/>
+    <itemref idref="id04399"/>
+    <itemref idref="id05550"/>
+    <itemref idref="id06588"/>
+    <itemref idref="id07602"/>
+    <itemref idref="id08955"/>
+    <itemref idref="id10190"/>
+    <itemref idref="id11446"/>
+    <itemref idref="id12902"/>
+    <itemref idref="id14056"/>
+    <itemref idref="id15246"/>
+    <itemref idref="id16435"/>
+    <itemref idref="pg-footer"/>
+  </spine>
+</package>
