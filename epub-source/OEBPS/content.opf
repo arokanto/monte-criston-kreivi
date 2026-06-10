@@ -34,9 +34,7 @@
     <meta name="cover" content="item1"/>
   </metadata>
   <manifest>
-    <item href="2039558115559954994_45448-cover.png" id="item1" media-type="image/png" properties="cover-image"/>
-    <item href="gutenberg-epub.css" id="item2" media-type="text/css"/>
-    <item href="gutenberg.css" id="item3" media-type="text/css"/>
+    <item href="cover-image.jpg" id="item1" media-type="image/jpeg" properties="cover-image"/>
     <item href="book.css" id="item4" media-type="text/css"/>
     <item href="wrap0000.xhtml" id="coverpage-wrapper" media-type="application/xhtml+xml" properties="svg"/>
     <item href="frontmatter.xhtml" id="frontmatter" media-type="application/xhtml+xml"/>
