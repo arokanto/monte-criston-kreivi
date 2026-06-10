@@ -1,0 +1,12 @@
+{
+  "tasks": {
+    "convert:gutenberg": "deno run --allow-read=epub-source --allow-write=gutenberg-html,gutenberg-text scripts/convert-for-gutenberg.ts",
+    "check:gutenberg-converter": "deno fmt --check deno.json scripts/convert-for-gutenberg.ts && deno lint scripts/convert-for-gutenberg.ts && deno check scripts/convert-for-gutenberg.ts"
+  },
+  "fmt": {
+    "lineWidth": 100,
+    "indentWidth": 2,
+    "semiColons": true,
+    "singleQuote": false
+  }
+}
