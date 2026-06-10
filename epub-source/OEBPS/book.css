@@ -48,11 +48,6 @@ h3 {
     text-align: center;
     text-indent: 0;
 }
-.centered-text {
-    margin-top: 1em;
-    text-align: center;
-    text-indent: 0;
-}
 .source-note {
     font-size: 0.9em;
     margin-top: 3em;
@@ -61,7 +56,6 @@ h3 {
 .end-marker {
     font-weight: bold;
     margin-top: 3em;
-    text-align: center;
     text-indent: 0;
 }
 hr {
@@ -108,7 +102,19 @@ img {
 .list-unstyled {
     list-style-type: none;
 }
-.letter {
+.letter,
+.quoted-document {
     margin-left: 5%;
     margin-right: 5%;
+}
+.letter p,
+.quoted-document p {
+    text-indent: 0;
+}
+.quoted-document p + p {
+    margin-top: 0.75em;
+}
+.record-name,
+.document-signature {
+    text-indent: 0;
 }
