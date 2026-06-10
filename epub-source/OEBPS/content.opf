@@ -2,8 +2,8 @@
 
 <package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="id" xml:lang="fi">
   <metadata>
-    <dc:rights>Public domain in the USA.</dc:rights>
-    <dc:identifier id="id">http://www.gutenberg.org/45448</dc:identifier>
+    <dc:rights>Public domain in the United States and Finland.</dc:rights>
+    <dc:identifier id="id">urn:uuid:e18d2259-475c-49c1-b4fa-a1c6fe5a17dc</dc:identifier>
     <dc:creator id="author_0">Alexandre Dumas</dc:creator>
     <meta property="file-as" refines="#author_0">Dumas, Alexandre</meta>
     <meta property="role" refines="#author_0" scheme="marc:relators">aut</meta>
@@ -23,7 +23,7 @@
     <dc:subject>Pirates -- Fiction</dc:subject>
     <dc:subject>Dantès, Edmond (Fictitious character) -- Fiction</dc:subject>
     <dc:date>2014-04-21</dc:date>
-    <meta property="dcterms:modified">2026-06-09T20:08:12Z</meta>
+    <meta property="dcterms:modified">2026-06-10T18:12:40Z</meta>
     <dc:source>https://www.gutenberg.org/files/45448/45448-0.txt</dc:source>
     <meta property="schema:accessMode">textual</meta>
     <meta property="schema:accessibilityFeature">readingOrder</meta>
@@ -35,6 +35,7 @@
   </metadata>
   <manifest>
     <item href="cover-image.jpg" id="item1" media-type="image/jpeg" properties="cover-image"/>
+    <item href="epub-layout.css" id="item2" media-type="text/css"/>
     <item href="book.css" id="item4" media-type="text/css"/>
     <item href="wrap0000.xhtml" id="coverpage-wrapper" media-type="application/xhtml+xml" properties="svg"/>
     <item href="frontmatter.xhtml" id="frontmatter" media-type="application/xhtml+xml"/>
@@ -156,7 +157,6 @@
     <item href="chapter-116.xhtml" id="chapter-116" media-type="application/xhtml+xml"/>
     <item href="chapter-117.xhtml" id="chapter-117" media-type="application/xhtml+xml"/>
     <item href="notes.xhtml" id="notes" media-type="application/xhtml+xml"/>
-    <item href="license.xhtml" id="pg-footer" media-type="application/xhtml+xml"/>
     <item href="toc.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
   </manifest>
@@ -281,6 +281,5 @@
     <itemref idref="chapter-116"/>
     <itemref idref="chapter-117"/>
     <itemref idref="notes"/>
-    <itemref idref="pg-footer"/>
   </spine>
 </package>
