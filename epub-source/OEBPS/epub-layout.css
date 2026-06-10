@@ -1,12 +1,12 @@
 @charset "utf-8";
-body, body.tei.tei-text {
+body {
     color: black;
     background-color: white;
     width: auto;
     border: 0;
     padding: 0
     }
-div, p, pre, h1, h2, h3, h4, h5, h6 {
+div, p, h1, h2 {
     margin-left: 0;
     margin-right: 0;
     display: block
@@ -14,9 +14,6 @@ div, p, pre, h1, h2, h3, h4, h5, h6 {
 h2 {
     page-break-before: always;
     padding-top: 1em
-    }
-div.figcenter span.caption {
-    display: block
     }
 .cover-image-frame {
     background-color: grey;
