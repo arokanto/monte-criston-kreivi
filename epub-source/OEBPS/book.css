@@ -1,18 +1,7 @@
-body {
-    width: 85%;
-}
-@media screen {
-    body {
-        margin-left: 8%;
-    }
-}
-.pagedjs_page_content > div {
-    margin-left: 8%;
-}
 p {
-    margin-top: 1em;
+    margin-top: 0.25em;
     margin-bottom: 0;
-    line-height: 1.4em;
+    line-height: 1.4;
 }
 body > p,
 section[role="doc-chapter"] > p {
@@ -28,7 +17,7 @@ dd,
 li {
     margin-top: 0.25em;
     margin-bottom: 0;
-    line-height: 1.2em;
+    line-height: 1.2;
 }
 h2 {
     margin-top: 3em;
