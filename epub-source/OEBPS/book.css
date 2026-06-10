@@ -104,6 +104,8 @@ img {
 }
 .letter,
 .quoted-document {
+    margin-top: 1em;
+    margin-bottom: 1em;
     margin-left: 5%;
     margin-right: 5%;
 }
@@ -116,5 +118,12 @@ img {
 }
 .record-name,
 .document-signature {
+    text-indent: 0;
+}
+.verse-quote {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.verse-quote p {
     text-indent: 0;
 }
