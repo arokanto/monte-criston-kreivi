@@ -114,3 +114,7 @@ img {
 .list-unstyled {
     list-style-type: none;
 }
+.letter {
+    margin-left: 5%;
+    margin-right: 5%;
+}
