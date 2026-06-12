@@ -73,16 +73,57 @@
         margin-top: 0;
         text-indent: 0;
     }
-    .title-page-title {
-        font-size: 1.2em;
-        font-weight: bold;
-        margin-top: 3em;
+    .titlepage {
+        margin-top: 20%;
         text-align: center;
         text-indent: 0;
     }
+    .titlepage h1 {
+        font-size: 1.6em;
+        font-weight: bold;
+        line-height: 1.25;
+        margin-top: 0;
+        margin-bottom: 2em;
+        text-indent: 0;
+    }
+    .titlepage p {
+        margin-top: 0.5em;
+        text-indent: 0;
+    }
+    .titlepage .translator,
+    .titlepage .original-work {
+        margin-top: 2em;
+    }
     .source-note {
         font-size: 0.9em;
-        margin-top: 3em;
+        margin-top: 4em;
+        margin-left: 5%;
+        margin-right: 5%;
+        text-indent: 0;
+    }
+    .source-note h2 {
+        font-size: 1em;
+        font-weight: bold;
+        margin-top: 0;
+        margin-bottom: 1em;
+        padding-top: 0;
+        page-break-before: auto;
+        text-indent: 0;
+    }
+    .source-note p {
+        margin-top: 0;
+        text-indent: 0;
+    }
+    .frontmatter-toc {
+        margin-top: 4em;
+    }
+    .frontmatter-toc ol {
+        list-style-type: none;
+        margin-left: 4%;
+        margin-right: 4%;
+        padding-left: 0;
+    }
+    .frontmatter-toc li {
         text-indent: 0;
     }
     .end-marker {
@@ -93,22 +134,9 @@
     .mt-2em {
         margin-top: 2em;
     }
-    .mt-3em {
-        margin-top: 3em;
-    }
-    .mt-6em {
-        margin-top: 6em;
-    }
-    .mx-4pct {
-        margin-left: 4%;
-        margin-right: 4%;
-    }
     .mx-5pct {
         margin-left: 5%;
         margin-right: 5%;
-    }
-    .pl-0 {
-        padding-left: 0;
     }
     .list-unstyled {
         list-style-type: none;
@@ -143,15 +171,16 @@
 <body>
 <!-- frontmatter.xhtml -->
 
-    <p id="id00000" class="title-page-title">MONTE-CRISTON KREIVI</p>
-    <p id="id00001" class="mt-2em">Kirj.</p>
-    <p id="id00002">Alexandre Dumas</p>
-    <p id="id00003" class="mt-2em">Suomentanut Jalmari Finne</p>
-    <p id="id00004" class="mt-3em">Alexandre Dumas vanhemman ranskankielinen alkuperäisteos Le comte de Monte-Cristo ilmestyi v. 1844-45</p>
-    <p id="id00005" class="mt-2em">Otava, Helsinki, 1914.</p>
-    <section id="id00006" data-epub-type="toc" role="doc-toc" class="mt-6em">
+    <section id="titlepage" data-epub-type="titlepage" class="titlepage">
+      <h1 id="id00000">Monte-Criston kreivi</h1>
+      <p id="id00002">Alexandre Dumas</p>
+      <p id="id00003" class="translator">Suomentanut Jalmari Finne</p>
+      <p id="id00004" class="original-work">Ranskankielinen alkuperäisteos <i>Le comte de Monte-Cristo</i> ilmestyi vuosina 1844-1845.</p>
+      <p id="id00005">Otava, Helsinki, 1914.</p>
+    </section>
+    <section id="id00006" data-epub-type="toc" role="doc-toc" class="frontmatter-toc">
       <h1>Sisällys</h1>
-      <ol id="id00007" class="list-unstyled mx-4pct pl-0">
+      <ol id="id00007">
         <li>
           <a href="#id00008">1. Marseille — Tulo</a>
         </li>

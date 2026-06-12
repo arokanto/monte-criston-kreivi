@@ -186,6 +186,10 @@ function transformBodyAttributes(attrs: string): string {
 
 function transformBodyHtml(html: string, linkMode: "multi" | "single"): string {
   let output = html
+    .replace(
+      /<section\b(?=[^>]*\bclass="[^"]*\bsource-note\b)[^>]*>[\s\S]*?<\/section>\s*/g,
+      "",
+    )
     .replace(/<p\b(?=[^>]*\bclass="[^"]*\bsource-note\b)[^>]*>[\s\S]*?<\/p>\s*/g, "")
     .replace(/\bepub:type=/g, "data-epub-type=")
     .replace(/\bxlink:href=/g, "href=")
