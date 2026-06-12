@@ -17,3 +17,9 @@ To build the epub version from source, run
 ```bash
 deno run build:epub
 ```
+
+To generate HTML and plain text versions from the epub source, run
+
+```bash
+deno run convert:generated
+```
