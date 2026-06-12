@@ -73,6 +73,10 @@
         margin-top: 0;
         text-indent: 0;
     }
+    section[role="doc-chapter"] > .chapter-title + p,
+    section[role="doc-endnotes"] > .chapter-title + aside {
+        margin-top: 2em;
+    }
     .titlepage {
         margin-top: 20%;
         text-align: center;
@@ -131,9 +135,6 @@
         margin-top: 3em;
         text-indent: 0;
     }
-    .mt-2em {
-        margin-top: 2em;
-    }
     .list-unstyled {
         list-style-type: none;
     }
@@ -167,7 +168,7 @@
 <body data-epub-type="backmatter">
 <section data-epub-type="endnotes" role="doc-endnotes">
       <h1 id="id17313" class="chapter-title">Viiteselitykset</h1>
-      <aside id="id17314" data-epub-type="endnote" aria-label="Viite 1" class="mt-2em">
+      <aside id="id17314" data-epub-type="endnote" aria-label="Viite 1">
         <p><a href="chapter-001.html#noteref-1" data-epub-type="backlink" role="doc-backlink">[1]</a> Kenellä on kumppani, hänellä on herra.</p>
       </aside>
       <aside id="id17315" data-epub-type="endnote" aria-label="Viite 2">

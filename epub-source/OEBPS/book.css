@@ -32,6 +32,10 @@ h2 {
     margin-top: 0;
     text-indent: 0;
 }
+section[role="doc-chapter"] > .chapter-title + p,
+section[role="doc-endnotes"] > .chapter-title + aside {
+    margin-top: 2em;
+}
 .titlepage {
     margin-top: 20%;
     text-align: center;
@@ -89,9 +93,6 @@ h2 {
     font-weight: bold;
     margin-top: 3em;
     text-indent: 0;
-}
-.mt-2em {
-    margin-top: 2em;
 }
 .list-unstyled {
     list-style-type: none;
