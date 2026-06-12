@@ -1,8 +1,8 @@
 {
   "tasks": {
     "build:epub": "cd epub-source && rm -f ../monte-criston-kreivi.epub && zip -X0 ../monte-criston-kreivi.epub mimetype && zip -Xr9D ../monte-criston-kreivi.epub META-INF OEBPS",
-    "convert:gutenberg": "deno run --allow-read=epub-source --allow-write=gutenberg-html,gutenberg-text scripts/convert-for-gutenberg.ts",
-    "check:gutenberg-converter": "deno fmt --check deno.json scripts/convert-for-gutenberg.ts && deno lint scripts/convert-for-gutenberg.ts && deno check scripts/convert-for-gutenberg.ts"
+    "convert:generated": "deno run --allow-read=epub-source --allow-write=generated-html,generated-text scripts/convert-generated.ts",
+    "check:generated-converter": "deno fmt --check deno.json scripts/convert-generated.ts && deno lint scripts/convert-generated.ts && deno check scripts/convert-generated.ts"
   },
   "fmt": {
     "lineWidth": 100,
