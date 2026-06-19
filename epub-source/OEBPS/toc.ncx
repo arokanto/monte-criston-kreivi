@@ -15,709 +15,709 @@
       <navLabel>
         <text>1. Marseille — Tulo</text>
       </navLabel>
-      <content src="chapter-001.xhtml#id00008"/>
+      <content src="chapter-001.xhtml"/>
     </navPoint>
     <navPoint id="np-2" playOrder="2">
       <navLabel>
         <text>2. Isä ja poika</text>
       </navLabel>
-      <content src="chapter-002.xhtml#id00154"/>
+      <content src="chapter-002.xhtml"/>
     </navPoint>
     <navPoint id="np-3" playOrder="3">
       <navLabel>
         <text>3. Katalonialaiset</text>
       </navLabel>
-      <content src="chapter-003.xhtml#id00272"/>
+      <content src="chapter-003.xhtml"/>
     </navPoint>
     <navPoint id="np-4" playOrder="4">
       <navLabel>
         <text>4. Salaliitto</text>
       </navLabel>
-      <content src="chapter-004.xhtml#id00399"/>
+      <content src="chapter-004.xhtml"/>
     </navPoint>
     <navPoint id="np-5" playOrder="5">
       <navLabel>
         <text>5. Kihlajaiskemut</text>
       </navLabel>
-      <content src="chapter-005.xhtml#id00501"/>
+      <content src="chapter-005.xhtml"/>
     </navPoint>
     <navPoint id="np-6" playOrder="6">
       <navLabel>
         <text>6. Prokuraattorin sijainen</text>
       </navLabel>
-      <content src="chapter-006.xhtml#id00658"/>
+      <content src="chapter-006.xhtml"/>
     </navPoint>
     <navPoint id="np-7" playOrder="7">
       <navLabel>
         <text>7. Kuulustelu</text>
       </navLabel>
-      <content src="chapter-007.xhtml#id00755"/>
+      <content src="chapter-007.xhtml"/>
     </navPoint>
     <navPoint id="np-8" playOrder="8">
       <navLabel>
         <text>8. Ifin linna</text>
       </navLabel>
-      <content src="chapter-008.xhtml#id00891"/>
+      <content src="chapter-008.xhtml"/>
     </navPoint>
     <navPoint id="np-9" playOrder="9">
       <navLabel>
         <text>9. Kihlajaispäivän ilta</text>
       </navLabel>
-      <content src="chapter-009.xhtml#id01036"/>
+      <content src="chapter-009.xhtml"/>
     </navPoint>
     <navPoint id="np-10" playOrder="10">
       <navLabel>
         <text>10. Pieni työhuone Tuileries-palatsissa</text>
       </navLabel>
-      <content src="chapter-010.xhtml#id01110"/>
+      <content src="chapter-010.xhtml"/>
     </navPoint>
     <navPoint id="np-11" playOrder="11">
       <navLabel>
         <text>11. Korsikalainen ihmissusi</text>
       </navLabel>
-      <content src="chapter-011.xhtml#id01221"/>
+      <content src="chapter-011.xhtml"/>
     </navPoint>
     <navPoint id="np-12" playOrder="12">
       <navLabel>
         <text>12. Isä ja poika</text>
       </navLabel>
-      <content src="chapter-012.xhtml#id01337"/>
+      <content src="chapter-012.xhtml"/>
     </navPoint>
     <navPoint id="np-13" playOrder="13">
       <navLabel>
         <text>13. Satapäiväinen keisarikunta</text>
       </navLabel>
-      <content src="chapter-013.xhtml#id01428"/>
+      <content src="chapter-013.xhtml"/>
     </navPoint>
     <navPoint id="np-14" playOrder="14">
       <navLabel>
         <text>14. Raivoisa vanki ja hullu vanki</text>
       </navLabel>
-      <content src="chapter-014.xhtml#id01522"/>
+      <content src="chapter-014.xhtml"/>
     </navPoint>
     <navPoint id="np-15" playOrder="15">
       <navLabel>
         <text>15. Numero 34 ja numero 27</text>
       </navLabel>
-      <content src="chapter-015.xhtml#id01674"/>
+      <content src="chapter-015.xhtml"/>
     </navPoint>
     <navPoint id="np-16" playOrder="16">
       <navLabel>
         <text>16. Italialainen tiedemies</text>
       </navLabel>
-      <content src="chapter-016.xhtml#id01857"/>
+      <content src="chapter-016.xhtml"/>
     </navPoint>
     <navPoint id="np-17" playOrder="17">
       <navLabel>
         <text>17. Apotin huone</text>
       </navLabel>
-      <content src="chapter-017.xhtml#id01976"/>
+      <content src="chapter-017.xhtml"/>
     </navPoint>
     <navPoint id="np-18" playOrder="18">
       <navLabel>
         <text>18. Aarre</text>
       </navLabel>
-      <content src="chapter-018.xhtml#id02269"/>
+      <content src="chapter-018.xhtml"/>
     </navPoint>
     <navPoint id="np-19" playOrder="19">
       <navLabel>
         <text>19. Kolmas taudinkohtaus</text>
       </navLabel>
-      <content src="chapter-019.xhtml#id02375"/>
+      <content src="chapter-019.xhtml"/>
     </navPoint>
     <navPoint id="np-20" playOrder="20">
       <navLabel>
         <text>20. Ifin linnan hautausmaa</text>
       </navLabel>
-      <content src="chapter-020.xhtml#id02483"/>
+      <content src="chapter-020.xhtml"/>
     </navPoint>
     <navPoint id="np-21" playOrder="21">
       <navLabel>
         <text>21. Tiboulenin saari</text>
       </navLabel>
-      <content src="chapter-021.xhtml#id02541"/>
+      <content src="chapter-021.xhtml"/>
     </navPoint>
     <navPoint id="np-22" playOrder="22">
       <navLabel>
         <text>22. Salakuljettajat</text>
       </navLabel>
-      <content src="chapter-022.xhtml#id02677"/>
+      <content src="chapter-022.xhtml"/>
     </navPoint>
     <navPoint id="np-23" playOrder="23">
       <navLabel>
         <text>23. Monte-Criston saari</text>
       </navLabel>
-      <content src="chapter-023.xhtml#id02729"/>
+      <content src="chapter-023.xhtml"/>
     </navPoint>
     <navPoint id="np-24" playOrder="24">
       <navLabel>
         <text>24. Lumouksen vallassa</text>
       </navLabel>
-      <content src="chapter-024.xhtml#id02802"/>
+      <content src="chapter-024.xhtml"/>
     </navPoint>
     <navPoint id="np-25" playOrder="25">
       <navLabel>
         <text>25. Tuntematon</text>
       </navLabel>
-      <content src="chapter-025.xhtml#id02894"/>
+      <content src="chapter-025.xhtml"/>
     </navPoint>
     <navPoint id="np-26" playOrder="26">
       <navLabel>
         <text>26. Gardin sillan majatalo</text>
       </navLabel>
-      <content src="chapter-026.xhtml#id02942"/>
+      <content src="chapter-026.xhtml"/>
     </navPoint>
     <navPoint id="np-27" playOrder="27">
       <navLabel>
         <text>27. Kertomus</text>
       </navLabel>
-      <content src="chapter-027.xhtml#id03107"/>
+      <content src="chapter-027.xhtml"/>
     </navPoint>
     <navPoint id="np-28" playOrder="28">
       <navLabel>
         <text>28. Vankilan luettelot</text>
       </navLabel>
-      <content src="chapter-028.xhtml#id03269"/>
+      <content src="chapter-028.xhtml"/>
     </navPoint>
     <navPoint id="np-29" playOrder="29">
       <navLabel>
         <text>29. Morrelin kauppahuone</text>
       </navLabel>
-      <content src="chapter-029.xhtml#id03369"/>
+      <content src="chapter-029.xhtml"/>
     </navPoint>
     <navPoint id="np-30" playOrder="30">
       <navLabel>
         <text>30. Syyskuun viides päivä</text>
       </navLabel>
-      <content src="chapter-030.xhtml#id03532"/>
+      <content src="chapter-030.xhtml"/>
     </navPoint>
     <navPoint id="np-31" playOrder="31">
       <navLabel>
         <text>31. Italia — Merenkulkija Sindbad</text>
       </navLabel>
-      <content src="chapter-031.xhtml#id03752"/>
+      <content src="chapter-031.xhtml"/>
     </navPoint>
     <navPoint id="np-32" playOrder="32">
       <navLabel>
         <text>32. Herääminen</text>
       </navLabel>
-      <content src="chapter-032.xhtml#id04029"/>
+      <content src="chapter-032.xhtml"/>
     </navPoint>
     <navPoint id="np-33" playOrder="33">
       <navLabel>
         <text>33. Roomalaisia rosvoja</text>
       </navLabel>
-      <content src="chapter-033.xhtml#id04099"/>
+      <content src="chapter-033.xhtml"/>
     </navPoint>
     <navPoint id="np-34" playOrder="34">
       <navLabel>
         <text>34. Odottamaton kohtaaminen</text>
       </navLabel>
-      <content src="chapter-034.xhtml#id04488"/>
+      <content src="chapter-034.xhtml"/>
     </navPoint>
     <navPoint id="np-35" playOrder="35">
       <navLabel>
         <text>35. La Mazzolata</text>
       </navLabel>
-      <content src="chapter-035.xhtml#id04785"/>
+      <content src="chapter-035.xhtml"/>
     </navPoint>
     <navPoint id="np-36" playOrder="36">
       <navLabel>
         <text>36. Rooman karnevaali</text>
       </navLabel>
-      <content src="chapter-036.xhtml#id04937"/>
+      <content src="chapter-036.xhtml"/>
     </navPoint>
     <navPoint id="np-37" playOrder="37">
       <navLabel>
         <text>37. San Sebastianon katakombit</text>
       </navLabel>
-      <content src="chapter-037.xhtml#id05150"/>
+      <content src="chapter-037.xhtml"/>
     </navPoint>
     <navPoint id="np-38" playOrder="38">
       <navLabel>
         <text>38. Sovittu tapaaminen</text>
       </navLabel>
-      <content src="chapter-038.xhtml#id05432"/>
+      <content src="chapter-038.xhtml"/>
     </navPoint>
     <navPoint id="np-39" playOrder="39">
       <navLabel>
         <text>39. Pöytätoverit</text>
       </navLabel>
-      <content src="chapter-039.xhtml#id05517"/>
+      <content src="chapter-039.xhtml"/>
     </navPoint>
     <navPoint id="np-40" playOrder="40">
       <navLabel>
         <text>40. Aamiainen</text>
       </navLabel>
-      <content src="chapter-040.xhtml#id05774"/>
+      <content src="chapter-040.xhtml"/>
     </navPoint>
     <navPoint id="np-41" playOrder="41">
       <navLabel>
         <text>41. Esittely</text>
       </navLabel>
-      <content src="chapter-041.xhtml#id05901"/>
+      <content src="chapter-041.xhtml"/>
     </navPoint>
     <navPoint id="np-42" playOrder="42">
       <navLabel>
         <text>42. Bertuccio</text>
       </navLabel>
-      <content src="chapter-042.xhtml#id06022"/>
+      <content src="chapter-042.xhtml"/>
     </navPoint>
     <navPoint id="np-43" playOrder="43">
       <navLabel>
         <text>43. Talo Auteuilissa</text>
       </navLabel>
-      <content src="chapter-043.xhtml#id06097"/>
+      <content src="chapter-043.xhtml"/>
     </navPoint>
     <navPoint id="np-44" playOrder="44">
       <navLabel>
         <text>44. Vendetta</text>
       </navLabel>
-      <content src="chapter-044.xhtml#id06199"/>
+      <content src="chapter-044.xhtml"/>
     </navPoint>
     <navPoint id="np-45" playOrder="45">
       <navLabel>
         <text>45. Verisade</text>
       </navLabel>
-      <content src="chapter-045.xhtml#id06425"/>
+      <content src="chapter-045.xhtml"/>
     </navPoint>
     <navPoint id="np-46" playOrder="46">
       <navLabel>
         <text>46. Rajaton luotto</text>
       </navLabel>
-      <content src="chapter-046.xhtml#id06537"/>
+      <content src="chapter-046.xhtml"/>
     </navPoint>
     <navPoint id="np-47" playOrder="47">
       <navLabel>
         <text>47. Harmaat hevoset</text>
       </navLabel>
-      <content src="chapter-047.xhtml#id06708"/>
+      <content src="chapter-047.xhtml"/>
     </navPoint>
     <navPoint id="np-48" playOrder="48">
       <navLabel>
         <text>48. Ideologiaa</text>
       </navLabel>
-      <content src="chapter-048.xhtml#id06842"/>
+      <content src="chapter-048.xhtml"/>
     </navPoint>
     <navPoint id="np-49" playOrder="49">
       <navLabel>
         <text>49. Haydée</text>
       </navLabel>
-      <content src="chapter-049.xhtml#id06925"/>
+      <content src="chapter-049.xhtml"/>
     </navPoint>
     <navPoint id="np-50" playOrder="50">
       <navLabel>
         <text>50. Morrelin perhe</text>
       </navLabel>
-      <content src="chapter-050.xhtml#id06981"/>
+      <content src="chapter-050.xhtml"/>
     </navPoint>
     <navPoint id="np-51" playOrder="51">
       <navLabel>
         <text>51. Pyramus ja Tisbe</text>
       </navLabel>
-      <content src="chapter-051.xhtml#id07090"/>
+      <content src="chapter-051.xhtml"/>
     </navPoint>
     <navPoint id="np-52" playOrder="52">
       <navLabel>
         <text>52. Myrkkyoppi</text>
       </navLabel>
-      <content src="chapter-052.xhtml#id07158"/>
+      <content src="chapter-052.xhtml"/>
     </navPoint>
     <navPoint id="np-53" playOrder="53">
       <navLabel>
         <text>53. Robert Paholainen</text>
       </navLabel>
-      <content src="chapter-053.xhtml#id07308"/>
+      <content src="chapter-053.xhtml"/>
     </navPoint>
     <navPoint id="np-54" playOrder="54">
       <navLabel>
         <text>54. Kurssinoteerauksia</text>
       </navLabel>
-      <content src="chapter-054.xhtml#id07551"/>
+      <content src="chapter-054.xhtml"/>
     </navPoint>
     <navPoint id="np-55" playOrder="55">
       <navLabel>
         <text>55. Majuri Cavalcanti</text>
       </navLabel>
-      <content src="chapter-055.xhtml#id07699"/>
+      <content src="chapter-055.xhtml"/>
     </navPoint>
     <navPoint id="np-56" playOrder="56">
       <navLabel>
         <text>56. Andrea Cavalcanti</text>
       </navLabel>
-      <content src="chapter-056.xhtml#id07926"/>
+      <content src="chapter-056.xhtml"/>
     </navPoint>
     <navPoint id="np-57" playOrder="57">
       <navLabel>
         <text>57. Aitaus</text>
       </navLabel>
-      <content src="chapter-057.xhtml#id08127"/>
+      <content src="chapter-057.xhtml"/>
     </navPoint>
     <navPoint id="np-58" playOrder="58">
       <navLabel>
         <text>58. Herra Noirtier de Villefort</text>
       </navLabel>
-      <content src="chapter-058.xhtml#id08238"/>
+      <content src="chapter-058.xhtml"/>
     </navPoint>
     <navPoint id="np-59" playOrder="59">
       <navLabel>
         <text>59. Testamentti</text>
       </navLabel>
-      <content src="chapter-059.xhtml#id08366"/>
+      <content src="chapter-059.xhtml"/>
     </navPoint>
     <navPoint id="np-60" playOrder="60">
       <navLabel>
         <text>60. Lennätin</text>
       </navLabel>
-      <content src="chapter-060.xhtml#id08521"/>
+      <content src="chapter-060.xhtml"/>
     </navPoint>
     <navPoint id="np-61" playOrder="61">
       <navLabel>
         <text>61. Kuinka puutarhuri pääsee persikoita nakertelevista hiiristä</text>
       </navLabel>
-      <content src="chapter-061.xhtml#id08644"/>
+      <content src="chapter-061.xhtml"/>
     </navPoint>
     <navPoint id="np-62" playOrder="62">
       <navLabel>
         <text>62. Kummitukset</text>
       </navLabel>
-      <content src="chapter-062.xhtml#id08822"/>
+      <content src="chapter-062.xhtml"/>
     </navPoint>
     <navPoint id="np-63" playOrder="63">
       <navLabel>
         <text>63. Päivälliset</text>
       </navLabel>
-      <content src="chapter-063.xhtml#id08956"/>
+      <content src="chapter-063.xhtml"/>
     </navPoint>
     <navPoint id="np-64" playOrder="64">
       <navLabel>
         <text>64. Kerjäläinen</text>
       </navLabel>
-      <content src="chapter-064.xhtml#id09101"/>
+      <content src="chapter-064.xhtml"/>
     </navPoint>
     <navPoint id="np-65" playOrder="65">
       <navLabel>
         <text>65. Perheriita</text>
       </navLabel>
-      <content src="chapter-065.xhtml#id09198"/>
+      <content src="chapter-065.xhtml"/>
     </navPoint>
     <navPoint id="np-66" playOrder="66">
       <navLabel>
         <text>66. Avioliittoaikeita</text>
       </navLabel>
-      <content src="chapter-066.xhtml#id09308"/>
+      <content src="chapter-066.xhtml"/>
     </navPoint>
     <navPoint id="np-67" playOrder="67">
       <navLabel>
         <text>67. Kuninkaallisen prokuraattorin työhuone</text>
       </navLabel>
-      <content src="chapter-067.xhtml#id09458"/>
+      <content src="chapter-067.xhtml"/>
     </navPoint>
     <navPoint id="np-68" playOrder="68">
       <navLabel>
         <text>68. Kesätanssiaiset</text>
       </navLabel>
-      <content src="chapter-068.xhtml#id09577"/>
+      <content src="chapter-068.xhtml"/>
     </navPoint>
     <navPoint id="np-69" playOrder="69">
       <navLabel>
         <text>69. Tutkimuksia</text>
       </navLabel>
-      <content src="chapter-069.xhtml#id09722"/>
+      <content src="chapter-069.xhtml"/>
     </navPoint>
     <navPoint id="np-70" playOrder="70">
       <navLabel>
         <text>70. Tanssiaiset</text>
       </navLabel>
-      <content src="chapter-070.xhtml#id09895"/>
+      <content src="chapter-070.xhtml"/>
     </navPoint>
     <navPoint id="np-71" playOrder="71">
       <navLabel>
         <text>71. Leipää ja suolaa</text>
       </navLabel>
-      <content src="chapter-071.xhtml#id10054"/>
+      <content src="chapter-071.xhtml"/>
     </navPoint>
     <navPoint id="np-72" playOrder="72">
       <navLabel>
         <text>72. Markiisitar Saint-Méran</text>
       </navLabel>
-      <content src="chapter-072.xhtml#id10136"/>
+      <content src="chapter-072.xhtml"/>
     </navPoint>
     <navPoint id="np-73" playOrder="73">
       <navLabel>
         <text>73. Lupaus</text>
       </navLabel>
-      <content src="chapter-073.xhtml#id10305"/>
+      <content src="chapter-073.xhtml"/>
     </navPoint>
     <navPoint id="np-74" playOrder="74">
       <navLabel>
         <text>74. Villefort'in perhehauta</text>
       </navLabel>
-      <content src="chapter-074.xhtml#id10686"/>
+      <content src="chapter-074.xhtml"/>
     </navPoint>
     <navPoint id="np-75" playOrder="75">
       <navLabel>
         <text>75. Pöytäkirja</text>
       </navLabel>
-      <content src="chapter-075.xhtml#id10792"/>
+      <content src="chapter-075.xhtml"/>
     </navPoint>
     <navPoint id="np-76" playOrder="76">
       <navLabel>
         <text>76. Andrea Cavalcantin edistysaskelet</text>
       </navLabel>
-      <content src="chapter-076.xhtml#id10993"/>
+      <content src="chapter-076.xhtml"/>
     </navPoint>
     <navPoint id="np-77" playOrder="77">
       <navLabel>
         <text>77. Haydée</text>
       </navLabel>
-      <content src="chapter-077.xhtml#id11172"/>
+      <content src="chapter-077.xhtml"/>
     </navPoint>
     <navPoint id="np-78" playOrder="78">
       <navLabel>
         <text>78. Janinasta kirjoitetaan…</text>
       </navLabel>
-      <content src="chapter-078.xhtml#id11509"/>
+      <content src="chapter-078.xhtml"/>
     </navPoint>
     <navPoint id="np-79" playOrder="79">
       <navLabel>
         <text>79. Mehuvesi</text>
       </navLabel>
-      <content src="chapter-079.xhtml#id11846"/>
+      <content src="chapter-079.xhtml"/>
     </navPoint>
     <navPoint id="np-80" playOrder="80">
       <navLabel>
         <text>80. Syytös</text>
       </navLabel>
-      <content src="chapter-080.xhtml#id12083"/>
+      <content src="chapter-080.xhtml"/>
     </navPoint>
     <navPoint id="np-81" playOrder="81">
       <navLabel>
         <text>81. Toimensa jättänyt leipuri</text>
       </navLabel>
-      <content src="chapter-081.xhtml#id12153"/>
+      <content src="chapter-081.xhtml"/>
     </navPoint>
     <navPoint id="np-82" playOrder="82">
       <navLabel>
         <text>82. Murtovarkaus</text>
       </navLabel>
-      <content src="chapter-082.xhtml#id12505"/>
+      <content src="chapter-082.xhtml"/>
     </navPoint>
     <navPoint id="np-83" playOrder="83">
       <navLabel>
         <text>83. Jumalan käsi</text>
       </navLabel>
-      <content src="chapter-083.xhtml#id12734"/>
+      <content src="chapter-083.xhtml"/>
     </navPoint>
     <navPoint id="np-84" playOrder="84">
       <navLabel>
         <text>84. Beauchamp</text>
       </navLabel>
-      <content src="chapter-084.xhtml#id12834"/>
+      <content src="chapter-084.xhtml"/>
     </navPoint>
     <navPoint id="np-85" playOrder="85">
       <navLabel>
         <text>85. Matka</text>
       </navLabel>
-      <content src="chapter-085.xhtml#id12926"/>
+      <content src="chapter-085.xhtml"/>
     </navPoint>
     <navPoint id="np-86" playOrder="86">
       <navLabel>
         <text>86. Tuomio</text>
       </navLabel>
-      <content src="chapter-086.xhtml#id13093"/>
+      <content src="chapter-086.xhtml"/>
     </navPoint>
     <navPoint id="np-87" playOrder="87">
       <navLabel>
         <text>87. Taisteluhaaste</text>
       </navLabel>
-      <content src="chapter-087.xhtml#id13253"/>
+      <content src="chapter-087.xhtml"/>
     </navPoint>
     <navPoint id="np-88" playOrder="88">
       <navLabel>
         <text>88. Solvaus</text>
       </navLabel>
-      <content src="chapter-088.xhtml#id13328"/>
+      <content src="chapter-088.xhtml"/>
     </navPoint>
     <navPoint id="np-89" playOrder="89">
       <navLabel>
         <text>89. Yö</text>
       </navLabel>
-      <content src="chapter-089.xhtml#id13482"/>
+      <content src="chapter-089.xhtml"/>
     </navPoint>
     <navPoint id="np-90" playOrder="90">
       <navLabel>
         <text>90. Taistelupaikalla</text>
       </navLabel>
-      <content src="chapter-090.xhtml#id13570"/>
+      <content src="chapter-090.xhtml"/>
     </navPoint>
     <navPoint id="np-91" playOrder="91">
       <navLabel>
         <text>91. Äiti ja poika</text>
       </navLabel>
-      <content src="chapter-091.xhtml#id13768"/>
+      <content src="chapter-091.xhtml"/>
     </navPoint>
     <navPoint id="np-92" playOrder="92">
       <navLabel>
         <text>92. Itsemurha</text>
       </navLabel>
-      <content src="chapter-092.xhtml#id13840"/>
+      <content src="chapter-092.xhtml"/>
     </navPoint>
     <navPoint id="np-93" playOrder="93">
       <navLabel>
         <text>93. Valentine</text>
       </navLabel>
-      <content src="chapter-093.xhtml#id13971"/>
+      <content src="chapter-093.xhtml"/>
     </navPoint>
     <navPoint id="np-94" playOrder="94">
       <navLabel>
         <text>94. Tunnustus</text>
       </navLabel>
-      <content src="chapter-094.xhtml#id14078"/>
+      <content src="chapter-094.xhtml"/>
     </navPoint>
     <navPoint id="np-95" playOrder="95">
       <navLabel>
         <text>95. Isä ja tytär</text>
       </navLabel>
-      <content src="chapter-095.xhtml#id14279"/>
+      <content src="chapter-095.xhtml"/>
     </navPoint>
     <navPoint id="np-96" playOrder="96">
       <navLabel>
         <text>96. Avioliittosopimus</text>
       </navLabel>
-      <content src="chapter-096.xhtml#id14358"/>
+      <content src="chapter-096.xhtml"/>
     </navPoint>
     <navPoint id="np-97" playOrder="97">
       <navLabel>
         <text>97. Matkalla Belgiaan</text>
       </navLabel>
-      <content src="chapter-097.xhtml#id14519"/>
+      <content src="chapter-097.xhtml"/>
     </navPoint>
     <navPoint id="np-98" playOrder="98">
       <navLabel>
         <text>98. "Kellon ja Pullon" majatalo</text>
       </navLabel>
-      <content src="chapter-098.xhtml#id14620"/>
+      <content src="chapter-098.xhtml"/>
     </navPoint>
     <navPoint id="np-99" playOrder="99">
       <navLabel>
         <text>99. Laki</text>
       </navLabel>
-      <content src="chapter-099.xhtml#id14787"/>
+      <content src="chapter-099.xhtml"/>
     </navPoint>
     <navPoint id="np-100" playOrder="100">
       <navLabel>
         <text>100. Haamu</text>
       </navLabel>
-      <content src="chapter-100.xhtml#id14914"/>
+      <content src="chapter-100.xhtml"/>
     </navPoint>
     <navPoint id="np-101" playOrder="101">
       <navLabel>
         <text>101. Myrkyttäjä</text>
       </navLabel>
-      <content src="chapter-101.xhtml#id14995"/>
+      <content src="chapter-101.xhtml"/>
     </navPoint>
     <navPoint id="np-102" playOrder="102">
       <navLabel>
         <text>102. Valentine</text>
       </navLabel>
-      <content src="chapter-102.xhtml#id15085"/>
+      <content src="chapter-102.xhtml"/>
     </navPoint>
     <navPoint id="np-103" playOrder="103">
       <navLabel>
         <text>103. Maximilien</text>
       </navLabel>
-      <content src="chapter-103.xhtml#id15169"/>
+      <content src="chapter-103.xhtml"/>
     </navPoint>
     <navPoint id="np-104" playOrder="104">
       <navLabel>
         <text>104. Danglars'in nimikirjoitus</text>
       </navLabel>
-      <content src="chapter-104.xhtml#id15296"/>
+      <content src="chapter-104.xhtml"/>
     </navPoint>
     <navPoint id="np-105" playOrder="105">
       <navLabel>
         <text>105. Père-Lachaisen hautausmaa</text>
       </navLabel>
-      <content src="chapter-105.xhtml#id15485"/>
+      <content src="chapter-105.xhtml"/>
     </navPoint>
     <navPoint id="np-106" playOrder="106">
       <navLabel>
         <text>106. Jako</text>
       </navLabel>
-      <content src="chapter-106.xhtml#id15657"/>
+      <content src="chapter-106.xhtml"/>
     </navPoint>
     <navPoint id="np-107" playOrder="107">
       <navLabel>
         <text>107. Leijonanluola</text>
       </navLabel>
-      <content src="chapter-107.xhtml#id15843"/>
+      <content src="chapter-107.xhtml"/>
     </navPoint>
     <navPoint id="np-108" playOrder="108">
       <navLabel>
         <text>108. Tuomari</text>
       </navLabel>
-      <content src="chapter-108.xhtml#id15951"/>
+      <content src="chapter-108.xhtml"/>
     </navPoint>
     <navPoint id="np-109" playOrder="109">
       <navLabel>
         <text>109. Tuomioistuin</text>
       </navLabel>
-      <content src="chapter-109.xhtml#id16078"/>
+      <content src="chapter-109.xhtml"/>
     </navPoint>
     <navPoint id="np-110" playOrder="110">
       <navLabel>
         <text>110. Syytöskirjelmä</text>
       </navLabel>
-      <content src="chapter-110.xhtml#id16168"/>
+      <content src="chapter-110.xhtml"/>
     </navPoint>
     <navPoint id="np-111" playOrder="111">
       <navLabel>
         <text>111. Sovitus</text>
       </navLabel>
-      <content src="chapter-111.xhtml#id16254"/>
+      <content src="chapter-111.xhtml"/>
     </navPoint>
     <navPoint id="np-112" playOrder="112">
       <navLabel>
         <text>112. Lähtö</text>
       </navLabel>
-      <content src="chapter-112.xhtml#id16378"/>
+      <content src="chapter-112.xhtml"/>
     </navPoint>
     <navPoint id="np-113" playOrder="113">
       <navLabel>
         <text>113. Menneisyys</text>
       </navLabel>
-      <content src="chapter-113.xhtml#id16520"/>
+      <content src="chapter-113.xhtml"/>
     </navPoint>
     <navPoint id="np-114" playOrder="114">
       <navLabel>
         <text>114. Peppino</text>
       </navLabel>
-      <content src="chapter-114.xhtml#id16702"/>
+      <content src="chapter-114.xhtml"/>
     </navPoint>
     <navPoint id="np-115" playOrder="115">
       <navLabel>
         <text>115. Luigi Vampan ruokalista</text>
       </navLabel>
-      <content src="chapter-115.xhtml#id16871"/>
+      <content src="chapter-115.xhtml"/>
     </navPoint>
     <navPoint id="np-116" playOrder="116">
       <navLabel>
         <text>116. Anteeksianto</text>
       </navLabel>
-      <content src="chapter-116.xhtml#id16992"/>
+      <content src="chapter-116.xhtml"/>
     </navPoint>
     <navPoint id="np-117" playOrder="117">
       <navLabel>
         <text>117. Lokakuun viides päivä</text>
       </navLabel>
-      <content src="chapter-117.xhtml#id17110"/>
+      <content src="chapter-117.xhtml"/>
     </navPoint>
     <navPoint id="np-118" playOrder="118">
       <navLabel>
         <text>Viiteselitykset</text>
       </navLabel>
-      <content src="notes.xhtml#id17313"/>
+      <content src="notes.xhtml#notes"/>
     </navPoint>
   </navMap>
 </ncx>
